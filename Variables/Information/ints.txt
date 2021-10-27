@@ -1,0 +1,3 @@
+The first type of data we will store is the whole number. 
+Whole numbers are very common in programming. 
+You often see them used to store ages, or maximum sizes, or the number of times some code has…
