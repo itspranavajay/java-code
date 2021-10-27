@@ -1,0 +1,4 @@
+Whole numbers don’t accomplish what we need for every program. 
+What if we wanted to store the price of something? 
+We need a decimal point. 
+What if we wanted to store the world’s population?
