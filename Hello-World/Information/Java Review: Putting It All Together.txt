@@ -1,0 +1,3 @@
+In this lesson, we’ve started writing our first programs in Java. 
+We’ve also learned rules and guidelines for how to write Java programs: 
+* Java programs have at least one class and one main() me…
