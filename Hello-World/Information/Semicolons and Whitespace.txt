@@ -1,0 +1,3 @@
+As we saw with comments, reading code is just as important as writing code. 
+We should write code that is easy for other people to read. 
+Those people can be co-workers, friends, or even yourself
