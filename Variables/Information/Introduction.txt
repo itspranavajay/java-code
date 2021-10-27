@@ -1,0 +1,3 @@
+Let’s say we need a program that connects a user with new jobs. 
+We need the user’s name, their salary, and their employment status. 
+All of these pieces of information are stored in our program.
