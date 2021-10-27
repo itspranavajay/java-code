@@ -1,0 +1,4 @@
+Java runs on different platforms, but programmers write it the same way.
+Let’s explore some rules for writing Java. 
+In the last exercise, we saw the file HelloWorld.java. 
+Java files have a **….
