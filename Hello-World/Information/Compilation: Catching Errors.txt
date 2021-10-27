@@ -1,0 +1,2 @@
+Java is a compiled programming language, meaning the code we write in a .java file is transformed into byte code by a compiler before it is executed by the 
+Java Virtual Machine on your comp
